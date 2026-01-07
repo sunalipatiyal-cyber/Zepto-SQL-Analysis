@@ -1,6 +1,7 @@
 🛒 Zepto Inventory & Revenue Optimization (SQL)
 
 📋 Project Overview
+
 This project focuses on analyzing the inventory and pricing strategy of Zepto, a leading Quick-Commerce platform. Using MySQL, I transformed a raw dataset of 1,200+ SKUs into actionable business insights. The project covers the entire data lifecycle: Schema Design, Data Audit, Multi-stage Cleaning, and Strategic Business Analysis.
 
 🛠️ Tech Stack
